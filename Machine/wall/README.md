@@ -10,4 +10,4 @@ The password to decrypt the file us root hash as inside the zip got the hash for
 
 enjoy :)
 
-![GitHub](https://github.com/saitamang/Hack-The-Box/tree/master/Machine/wall/wall.PNG)
+![GitHub](https://raw.githubusercontent.com/saitamang/Hack-The-Box/master/Machine/wall/wall.PNG)
