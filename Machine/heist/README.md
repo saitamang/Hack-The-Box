@@ -8,7 +8,7 @@ This script is only for user, and I still developing my script. I am not that go
 
 The password to decrypt the file us root hash as inside the zip got the hash for both user and root.
 
-<h2>Dont forget to Star my repo</h2>
+<h2>Dont forget to STAR(★) my repo</h2>
 
 enjoy :)
 
