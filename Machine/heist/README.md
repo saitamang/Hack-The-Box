@@ -2,7 +2,7 @@
 
 Hi All,
 
-Script for active machine for Heist.
+Script for active machine for Heist. ONLY for LINUX
 
 This script is only for user, and I still developing my script. I am not that good with python but I will keep learning. Kindly pm me if you have any doubt.
 
