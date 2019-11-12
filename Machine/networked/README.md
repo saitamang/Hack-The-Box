@@ -11,5 +11,3 @@ The password to decrypt the file us root hash as inside the zip got the hash for
 <h2>Dont forget to STAR(★) my repo</h2>
 
 enjoy :)
-
-![GitHub](https://raw.githubusercontent.com/saitamang/Hack-The-Box/master/Machine/wall/wall.PNG)
