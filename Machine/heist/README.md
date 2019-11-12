@@ -1,4 +1,4 @@
-# Heist Autopawn Script
+# Heist Autopwn Script
 
 Hi All,
 
